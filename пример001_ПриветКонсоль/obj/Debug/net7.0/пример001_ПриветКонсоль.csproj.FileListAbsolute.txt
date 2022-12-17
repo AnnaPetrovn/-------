@@ -1,0 +1,15 @@
+C:\kruglov\примеры\пример001_ПриветКонсоль\bin\Debug\net7.0\пример001_ПриветКонсоль.exe
+C:\kruglov\примеры\пример001_ПриветКонсоль\bin\Debug\net7.0\пример001_ПриветКонсоль.deps.json
+C:\kruglov\примеры\пример001_ПриветКонсоль\bin\Debug\net7.0\пример001_ПриветКонсоль.runtimeconfig.json
+C:\kruglov\примеры\пример001_ПриветКонсоль\bin\Debug\net7.0\пример001_ПриветКонсоль.dll
+C:\kruglov\примеры\пример001_ПриветКонсоль\bin\Debug\net7.0\пример001_ПриветКонсоль.pdb
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.csproj.AssemblyReference.cache
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.GeneratedMSBuildEditorConfig.editorconfig
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.AssemblyInfoInputs.cache
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.AssemblyInfo.cs
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.csproj.CoreCompileInputs.cache
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.dll
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\refint\пример001_ПриветКонсоль.dll
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.pdb
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\пример001_ПриветКонсоль.genruntimeconfig.cache
+C:\kruglov\примеры\пример001_ПриветКонсоль\obj\Debug\net7.0\ref\пример001_ПриветКонсоль.dll
